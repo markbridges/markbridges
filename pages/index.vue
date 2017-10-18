@@ -9,9 +9,9 @@
         Personal Site
       </h2>
       <div class="links">
-        <a href="https://nuxtjs.org/" target="_blank" class="button--green">Documentation</a>
-        <a href="https://github.com/markbridges" target="_blank" class="button--grey">GitHub</a>
+        <a href="/projects" target="_blank" class="button--green">Projects</a>
         <a href="/about" class="button--blue">About Me</a>
+        <a href="https://github.com/markbridges" target="_blank" class="button--grey">GitHub</a>
       </div>
     </div>
   </section>

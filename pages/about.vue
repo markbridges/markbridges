@@ -4,6 +4,8 @@
     <br/>
     <p>This is about me. Well, not really about me.  It's just a site for playing with
     various technologies and documenting results. Go Dawgs!</p>
+    <br/>
+    <a href="/">Main</a>
   </div>
 
 </template>
