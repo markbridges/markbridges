@@ -49,4 +49,19 @@ html {
   color: #fff;
   background-color: #35495e;
 }
+
+.button--blue {
+  display: inline-block;
+  border-radius: 4px;
+  border: 1px solid #526488;
+  color: #526488;
+  text-decoration: none;
+  padding: 10px 30px;
+  margin-left: 15px;
+}
+
+.button--blue:hover {
+  color: #fff;
+  background-color: #526488;
+}
 </style>
