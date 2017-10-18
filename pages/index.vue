@@ -60,6 +60,8 @@ export default {
 @media(max-width: 980px){
   .title {
     font-size: 75px;
+    padding-left: 5px;
+    padding-right: 5px;
   }
   .subtitle {
     font-size: 28px;
